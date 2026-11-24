@@ -5,4 +5,4 @@ platformName: 'Android',
       'appium:appActivity': '.MainActivity',
       'appium:noReset': true
 
-We are doing the mobile automation for the login page a
+We are doing the mobile automation for the login page and also the scan page.
